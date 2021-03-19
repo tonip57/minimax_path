@@ -1,7 +1,7 @@
 # minimax_path
 Solving minimax path problem using Kruskal's and Dijkstra's algorithms.
 
-graph_ADS2018_2000.txt -file contains information about graph's vertices, edges, and weights.
+graph_ADS2018_2000.txt -file contains information about graph's vertices, edges, and weights. (Over 650 000 lines of text)
 
 Weight = maximum height between two cities.
 
