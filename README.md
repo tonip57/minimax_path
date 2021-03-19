@@ -5,7 +5,7 @@ graph_ADS2018_2000.txt -file contains information about graph's vertices, edges,
 
 Weight = maximum height between two cities.
 
-The problem was to find a route between city 1 and city 2000 where the maximum height is as small as possible.
+The problem was to find a route between city 1 and city 2000 where the maximum height between every pair of cities is as small as possible. (Not shortest path problem)
 
 How I solved the problem:
 1. I used Kruskal's algorithm to find out the minimum spanning tree of the graph.
